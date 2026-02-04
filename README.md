@@ -1,11 +1,11 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Vignesh Muralidharan.</h2>
+<h2 align="center">Hi! My name is Vignesh Muralidharan.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh-muralidharan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh-muralidharan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false" height="190" alt="Graph of Code Languages"  />
 </div>
 
 ###
@@ -88,6 +88,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/StriderCryonic/StriderCryonic/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vignesh-muralidharan/vignesh-muralidharan/output/snake.svg" alt="Snake animation" />
 
 ###
