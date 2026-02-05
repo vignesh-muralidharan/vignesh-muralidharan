@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vignesh-muralidharan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false" height="190" alt="Graph of Code Languages"  />
+  [![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignesh-muralidharan)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ###
