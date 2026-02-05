@@ -2,13 +2,6 @@
 
 <h2 align="center">Hi! My name is Vignesh Muralidharan.</h2>
 
-###
-
-<div align="center">
-  [![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vignesh-muralidharan)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-###
 
 <br clear="both">
 
